@@ -8,6 +8,7 @@
   "country": "Japan",
   "hobbies": [
     "東方ロストワード",
+    "Minecraft",
     "Programming",
     "Listening to music"
   ],
