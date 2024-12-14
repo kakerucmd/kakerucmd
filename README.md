@@ -9,6 +9,8 @@
   "hobbies": [
     "東方ロストワード",
     "Minecraft",
+    "Undertale",
+    "Deltarune",
     "Programming",
     "Listening to music"
   ],
