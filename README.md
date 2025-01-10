@@ -7,7 +7,6 @@
   "gender": "Male",
   "country": "Japan",
   "hobbies": [
-    "東方ロストワード",
     "Minecraft",
     "Undertale",
     "Deltarune",
